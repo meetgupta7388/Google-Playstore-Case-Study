@@ -1,4 +1,4 @@
-### Google Playstore App Category Analysis with SQL
+# Google Playstore App Category Analysis with SQL
 ## Overview
 This project involves a detailed analysis of Google Playstore app categories using SQL to identify the most promising categories for launching new apps, understand revenue generation, and provide strategic recommendations for app development.
 
